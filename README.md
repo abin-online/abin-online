@@ -12,7 +12,7 @@ I am a self-taught MERN stack developer with a keen interest in solving logic pr
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with **Advanced JavaScript Techniques**
 - 💬 Ask me about **Node.js, MongoDB, React, Express**
-- 📫 How to reach me: [abin.babu@example.com](mailto:abinbabuonline@gmail.com)
+- 📫 How to reach me: [abinbabuonline@gmail.com](mailto:abinbabuonline@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
 ## My Skills
