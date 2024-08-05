@@ -34,6 +34,8 @@ I am a self-taught MERN stack developer with a keen interest in solving logic pr
 ## GitHub Stats
 
 ![Abin's GitHub stats](https://github-readme-stats.vercel.app/api?username=abin-online&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abin-online&theme=radical)
+
 
 <!--
 **abin-online/abin-online** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
