@@ -1,4 +1,4 @@
-![Banner](https://github.com/abin-online/abin-online/blob/main/29652645bfe64e65f453810ea6b48d67.gif)
+![Banner](https://github.com/abin-online/abin-online/blob/main/JS-by-SoyHorizonte.gif)
 
 # Hi there, I'm Abin Babu! 👋
 
