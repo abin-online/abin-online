@@ -29,7 +29,7 @@ I am a self-taught MERN stack developer with a keen interest in solving logic pr
 
 ## My Projects
 
-- **[Project Name](https://cakekart.shop/)**: A brief description of the project.
+- **[CAKE KART](https://cakekart.shop/)**: A comprehensive e-commerce platform dedicated to ordering and delivering exquisite cakes online. CAKE KART is designed to provide an exceptional user experience
 
 ## GitHub Stats
 
