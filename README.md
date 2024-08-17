@@ -4,7 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=24&pause=1000&color=00C4F7&width=435&lines=Hi+there%2C+I'm+Abin+Babu!+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!">
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=abin-online&color=blue)
+  <div class="container">
+        <h1>GitHub Profile Visits</h1>
+        <p class="counter">Check how many times your profile has been visited:</p>
+        <img src="https://komarev.com/ghpvc/?username=abin-online&color=blue" alt="Profile Views">
+  </div>
 
 ## About Me
 
