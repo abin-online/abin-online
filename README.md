@@ -1,7 +1,7 @@
 ![Banner](https://github.com/abin-online/abin-online/blob/main/JS-by-SoyHorizonte.gif)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=24&pause=1000&color=00C4F7&width=435&lines=Hi+there%2C+I'm+Abin+Babu!+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=24&pause=1000&color=white&width=435&lines=Hi+there%2C+I'm+Abin+Babu!+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!">
 </p>
 
   <div class="container">
