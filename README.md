@@ -22,7 +22,7 @@ I am a self-taught MERN stack developer with a keen interest in solving logic pr
 
 ## My Skills
 
-- **Languages**: JavaScript, TypeScript C, Java, HTML, CSS
+- **Languages**: JavaScript, TypeScript, C, Java, HTML, CSS
 - **Frameworks**: Node.js, Express
 - **Databases**: MongoDB, PostgreSQL
 - **Tools**: Git, VS Code
