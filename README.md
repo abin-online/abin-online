@@ -20,6 +20,9 @@ I am a self-taught MERN stack developer with a keen interest in solving logic pr
 - **Databases**: MongoDB, PostgreSQL
 - **Tools**: Git, VS Code
 
+## LeetCode Stats
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/user/abinbabuonline)
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abin-babu-08a02b2b1/)
