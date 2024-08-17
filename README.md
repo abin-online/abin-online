@@ -6,7 +6,6 @@
 
   <div class="container">
         <h6>GitHub Profile Visits</h6>
-        <p class="counter">Check how many times your profile has been visited:</p>
         <img src="https://komarev.com/ghpvc/?username=abin-online&color=blue" alt="Profile Views">
   </div>
 
