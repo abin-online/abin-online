@@ -1,8 +1,9 @@
 ![Banner](https://github.com/abin-online/abin-online/blob/main/JS-by-SoyHorizonte.gif)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&pause=1000&color=white&width=435&lines=Hi+there%2C+I'm+Abin+Babu!+%F0%9F%91%8B" alt="Hi there, I'm Abin Babu!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=30&pause=1000&color=FFFFFF&width=435&lines=Hi+there%2C+I'm+Abin+Babu!+%F0%9F%91%8B" alt="Hi there, I'm Abin Babu!">
 </p>
+
 
 
   <div class="container">
