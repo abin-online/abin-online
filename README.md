@@ -21,7 +21,8 @@ I am a self-taught MERN stack developer with a keen interest in solving logic pr
 - **Tools**: Git, VS Code
 
 ## LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/user/abinbabuonline)
+[![Leetcode Status](https://leetcard.jacoblin.cool/abinbabuonline?ext=contest&theme=dark)](https://leetcode.com/u/abinbabuonline/)
+
 
 ## Connect with Me
 
