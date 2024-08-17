@@ -15,7 +15,7 @@
 
 I am a self-taught MERN stack developer with a keen interest in solving logic problems and building efficient software solutions.
 
-- 🌱 I’m currently learning **Postgre SQL**
+- 🌱 I’m currently learning **TypeScript**
 - 🤔 I’m looking for help with **JavaScript Techniques**
 - 💬 Ask me about **JavaScript,DSA, Node.js, Express, MongoDB**
 - 📫 How to reach me: [abinbabuonline@gmail.com](mailto:abinbabuonline@gmail.com)
