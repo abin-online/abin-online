@@ -43,10 +43,6 @@ I am a self-taught MERN stack developer with a keen interest in solving logic pr
 
 - **[CAKE KART](https://cakekart.shop/)**: A comprehensive e-commerce platform dedicated to ordering and delivering exquisite cakes online. CAKE KART is designed to provide an exceptional user experience
 
-## GitHub Stats
-
-![Abin's GitHub stats](https://github-readme-stats.vercel.app/api?username=abin-online&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abin-online&theme=radical)
 
 
 <!--
