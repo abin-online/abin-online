@@ -13,7 +13,6 @@
 
 ## About Me
 
-I am a self-taught MERN stack developer with a keen interest in solving logic problems and building efficient software solutions.
 
 - 🌱 I’m currently learning **TypeScript**
 - 🤔 I’m looking for help with **JavaScript Techniques**
