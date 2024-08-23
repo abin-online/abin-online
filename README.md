@@ -14,7 +14,7 @@
 ## About Me
 
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **React**
 - 🤔 I’m looking for help with **JavaScript Techniques**
 - 💬 Ask me about **JavaScript,DSA, Node.js, Express, MongoDB**
 - 📫 How to reach me: [abinbabuonline@gmail.com](mailto:abinbabuonline@gmail.com)
