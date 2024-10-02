@@ -27,9 +27,6 @@
 - **Tools**: Git, VS Code
 
 
-## LeetCode Stats
-[![Leetcode Status](https://leetcard.jacoblin.cool/abinbabuonline?ext=contest&theme=dark)](https://leetcode.com/u/abinbabuonline/)
-
 
 ## Connect with Me
 
