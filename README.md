@@ -40,8 +40,13 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://github.com/abin-online/abin-online/raw/main/linkedin.png)](https://www.linkedin.com/in/abin-babu-08a02b2b1/)
-[![Instagram](https://github.com/abin-online/abin-online/raw/main/instagram.png)](https://www.instagram.com/abin__babu/)
+<a href="https://www.linkedin.com/in/abin-babu-08a02b2b1/">
+    <img src="https://github.com/abin-online/abin-online/raw/main/linkedin.png" alt="LinkedIn" width="40" />
+</a>
+<a href="https://www.instagram.com/abin__babu/">
+    <img src="https://github.com/abin-online/abin-online/raw/main/instagram.png" alt="Instagram" width="40" />
+</a>
+
 
 
 
