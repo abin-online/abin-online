@@ -35,17 +35,15 @@
     </p>
 
 
-
-## Connect with Me
-
 ## Connect with Me
 
 <a href="https://www.linkedin.com/in/abin-babu-08a02b2b1/">
-    <img src="https://github.com/abin-online/abin-online/raw/main/linkedin.png" alt="LinkedIn" width="40" />
+    <img src="https://github.com/abin-online/abin-online/raw/main/linkedin.png" alt="LinkedIn" width="40" style="margin-right: 5px;" />
 </a>
 <a href="https://www.instagram.com/abin__babu/">
     <img src="https://github.com/abin-online/abin-online/raw/main/instagram.png" alt="Instagram" width="40" />
 </a>
+
 
 
 
