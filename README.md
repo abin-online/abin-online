@@ -32,7 +32,7 @@
     <img src="https://th.bing.com/th?id=OSAAS.D0403253C987C59F4058FF7438A6111C&w=72&h=72&c=17&rs=1&o=6&dpr=1.3&pid=5.1" alt="postgresql" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="react" width="40" height="40"/>
     <img src="https://th.bing.com/th?id=ODLS.2a7b8c1d-c093-4fb5-8cef-9004999ece67&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" alt="redux" width="40" height="40"/> 
-    <img src="https://th.bing.com/th/id/OIP.bZP17SmwRZihfAYDr5KBFgHaEK?w=289&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="docker" width="40" height="40"/> 
+    <img src="https://th.bing.com/th/id/OIP.bZP17SmwRZihfAYDr5KBFgHaEK?w=289&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="docker" width="auto" height="40"/> 
 </p>
 
 
