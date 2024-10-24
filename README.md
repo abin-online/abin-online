@@ -24,7 +24,13 @@
         <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-        <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+        <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>    
+      <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"> 
+      <img width="40" height="40" src="https://img.icons8.com/?size=100&id=Nlsua06Gvxel&format=png&color=000000" />
+      </a>
+      <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"> 
+      <img width="40" height="40" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" />
+      </a>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
         <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
@@ -33,8 +39,6 @@
         <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th?id=ODLS.2a7b8c1d-c093-4fb5-8cef-9004999ece67&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" alt="redux" width="40" height="40"/> </a>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.bZP17SmwRZihfAYDr5KBFgHaEK?w=289&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" alt="docker" width="auto" height="40"/> </a>
       
-<img height="40" width="auto" src="https://img.icons8.com/?size=100&id=Nlsua06Gvxel&format=png&color=000000" />
-<img height="40" width="auto" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" />
     </p>
 
 
