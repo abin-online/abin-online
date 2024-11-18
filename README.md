@@ -37,7 +37,7 @@
 
 ### Certificates
 <a href="https://www.hackerrank.com/certificates/iframe/f621875925a6" target="_blank">
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-1024.png" alt="Hackerrank Certificate" width="40">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-1024.png" alt="Hackerrank Certificate" width="45">
 </a>
 
 
