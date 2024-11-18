@@ -36,7 +36,7 @@
 </p>
 
 ### Certificates
-![Hackerrank Certificate](https://www.iconpacks.net/icons/1/free-certificate-icon-1356-thumb.png)
+![Hackerrank Certificate](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-1024.png)
 [View Certificate](https://www.hackerrank.com/certificates/iframe/f621875925a6)
 
 
